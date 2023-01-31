@@ -1,0 +1,12 @@
+1-31-2023 (0.93 Release)
+
+* Added support for Eradicator
+* Added support for Radix: Beyond the Void
+* Added support for Warcraft: Orcs & Humans
+* Added Bloodbath and Plasma Pack Bloodbath levels to the list of levels for Blood
+* Added support for Duke Nukem 3D (Registered V1.3D)
+* Changed max players for Z & WarCraft: Orcs & Humans
+* Fixing the -machine parameters (typed in as -macine)
+* Renamed "Descent 2" to "Descent II"
+* Added support for Z.A.R. (Zones for Artificial Resources)
+* Added support for WarCraft II Orcs & Humans
