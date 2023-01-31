@@ -143,7 +143,6 @@ module.exports = function({libs, paths, settings, ircClient, mainStore, storeAct
             // optional
             // supports async
             // "connected" false means disconnected.
-			motd (ass)
         },
         onPureIrcMessage(nick, to, text, raw) {
             // optional
