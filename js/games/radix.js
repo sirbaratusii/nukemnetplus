@@ -7,6 +7,7 @@ module.exports = {
     "executables": {
         "shareware2_0": {
             "name": "Shareware v2.0 (DOS)",
+		    "maxPlayers": 4,
             "files": {
                 "setup": {
                     "path": "SETUP.EXE"
@@ -75,6 +76,7 @@ module.exports = {
         },
         "remix": {
             "name": "Remix v2.0 (DOS)",
+		    "maxPlayers": 4,
             "files": {
                 "setup": {
                     "path": "SETUP.EXE"
