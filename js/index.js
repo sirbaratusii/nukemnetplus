@@ -132,10 +132,14 @@ module.exports = function({libs, paths, settings, ircClient, mainStore, storeAct
 			gameDefsObj.games.duke3d.executables.full1_3d = require('./games/duke3d_13dfull');
 			gameDefsObj.games.blood.executables.full.parameters.level = require('./games/blood_level');
             gameDefsObj.games.eradicator = require('./games/eradicator');
+            gameDefsObj.games.gta = require('./games/gta');
+            gameDefsObj.games.massdestruction = require('./games/massdestruction');
             gameDefsObj.games.radix = require('./games/radix');
             gameDefsObj.games.warcraft = require('./games/warcraft');
             gameDefsObj.games.warcraft2 = require('./games/warcraft2');
             gameDefsObj.games.zar = require('./games/zar');
+			gameDefsObj.games.inpursuitofgreed.executables.full.maxPlayers = 8
+			gameDefsObj.games.netkeen.executables.netkeen.maxPlayers = 4
 			gameDefsObj.games.z.executables.dos.maxPlayers = 4
 			gameDefsObj.games.descent2.name = ('Descent II')
         },
