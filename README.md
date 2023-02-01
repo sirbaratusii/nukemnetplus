@@ -10,3 +10,8 @@ WHAT DOES IT DO?
 Huge thanks to aaBlueDragon (Developer of NukemNet) for guiding me how to work with the extensions.
 
 https://nukemnet.com/
+
+# DISCLAIMER
+Please use the release versions and only clone the repository for development only!
+
+
