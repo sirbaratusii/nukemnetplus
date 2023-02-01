@@ -7,9 +7,11 @@ WHAT DOES IT DO?
 * Adds the ability to load usermaps for certain games (Not implemented but planned!)
 * More to be added or considered in the future...
 
-# DISCLAIMER
-Please use the release versions and only clone the repository for development only!
-
 Huge thanks to aaBlueDragon (Developer of NukemNet) for guiding me how to work with the extensions.
 
 https://nukemnet.com/
+
+# DISCLAIMER
+Please use the release versions and only clone the repository for development only!
+
+
