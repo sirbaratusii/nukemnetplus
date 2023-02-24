@@ -133,6 +133,7 @@ module.exports = function({libs, paths, settings, ircClient, mainStore, storeAct
 			gameDefsObj.games.blood.executables.full.parameters.level = require('./games/blood_level');
             gameDefsObj.games.eradicator = require('./games/eradicator');
             gameDefsObj.games.gta = require('./games/gta');
+            gameDefsObj.games.lastrites = require('./games/lastrites');
             gameDefsObj.games.massdestruction = require('./games/massdestruction');
             gameDefsObj.games.radix = require('./games/radix');
             gameDefsObj.games.warcraft = require('./games/warcraft');
@@ -142,6 +143,16 @@ module.exports = function({libs, paths, settings, ircClient, mainStore, storeAct
 			gameDefsObj.games.netkeen.executables.netkeen.maxPlayers = 4
 			gameDefsObj.games.z.executables.dos.maxPlayers = 4
 			gameDefsObj.games.descent2.name = ('Descent II')
+			gameDefsObj.games.shadow_warrior.executables.voidsw.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.shadow_warrior.executables.full.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.blood.executables.full.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.blood.executables.nblood.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.blood.executables.notblood.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.blood.executables.full.parameters.ini = require('./games/blood_ini');
+			gameDefsObj.games.blood.executables.nblood.parameters.ini = require('./games/blood_ini');
+			gameDefsObj.games.blood.executables.notblood.parameters.ini = require('./games/blood_ini');
+			gameDefsObj.games.redneckrampage.executables.full.parameters.usermap = require('./games/build_usermap');
+			gameDefsObj.games.redneckrampage.executables.ridesagain.parameters.usermap = require('./games/build_usermap');
         },
         ircConnection(connected) {
             // optional

@@ -1,12 +1,12 @@
 NukemNet Plus
 - Extension by THEBaratusII -
-version 0.93
+version 0.94
 
 https://nukemnet.com/
 
 - WHAT DOES IT DO? -
 * Adds support for games & source ports originally not on NukemNet's supported games list (May potentially be added in a future NukemNet update)
-* Adds the ability to load usermaps for certain games (Not implemented but planned!)
+* Adds the ability to load usermaps for certain games
 * More to be added or considered in the future...
 
 - THANKS -

@@ -1,3 +1,7 @@
+2-24-2023 (0.94 Release)
+* Added usermap support for non-Duke Build Engine games (Blood, Shadow Warrior and Redneck Rampage)
+* Added .INI support for Blood and source ports.
+
 1-31-2023 (0.93 Release)
 
 * Added support for Eradicator
