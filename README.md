@@ -4,7 +4,7 @@ Extension for NukemNet (Mainly adds support for more games)
 
 WHAT DOES IT DO?
 * Adds support for games & source ports originally not on NukemNet's supported games list (May potentially be added in a future NukemNet update)
-* Adds the ability to load usermaps for certain games (Not implemented but planned!)
+* Adds the ability to load usermaps for certain games (Implemented for BUILD Engine games)
 * More to be added or considered in the future...
 
 Huge thanks to aaBlueDragon (Developer of NukemNet) for guiding me how to work with the extensions.
